@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "195fcc924ccab67d1a5159a5e28e84ec",
+    "revision": "e124455f64890de9cb5799072a1998f1",
     "url": "/index.html"
   },
   {
-    "revision": "e6fc7938d499aed39f7d",
+    "revision": "a298d6e28bd61e00b6b4",
     "url": "/static/css/main.19d3f477.chunk.css"
   },
   {
@@ -16,24 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5d985ed1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6fc7938d499aed39f7d",
-    "url": "/static/js/main.7f724359.chunk.js"
+    "revision": "a298d6e28bd61e00b6b4",
+    "url": "/static/js/main.4dd200f5.chunk.js"
   },
   {
     "revision": "e17f14aba305564c2ab9",
     "url": "/static/js/runtime-main.1e8cb3c9.js"
   },
   {
-    "revision": "b2ec989baf1e543cbf46d5bb3ee7fc6d",
-    "url": "/static/media/Frood - Clay White.b2ec989b.png"
+    "revision": "aed0902377c975d17ea773bf14b2e8ac",
+    "url": "/static/media/Frood - Clay White.aed09023.png"
   },
   {
-    "revision": "9cd7cbd1c0ad70e0a2d591ea050a0e34",
-    "url": "/static/media/Jelujur - Clay White.9cd7cbd1.png"
+    "revision": "1c3af60ba942a96ed1eb7cbb7daa9578",
+    "url": "/static/media/Jelujur - Clay White.1c3af60b.png"
   },
   {
-    "revision": "35945374c5993fb1c48064c476d8f9b1",
-    "url": "/static/media/Journey of Life - Clay White.35945374.png"
+    "revision": "0d2e62043ad0022cca621e3f87eb7d3a",
+    "url": "/static/media/Journey of Life - Clay White.0d2e6204.png"
   },
   {
     "revision": "d67a77faaab99bf63169db517143068f",
